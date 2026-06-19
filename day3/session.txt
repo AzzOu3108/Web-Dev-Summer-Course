@@ -1,0 +1,16 @@
+concepts of posmises:
+
+resolve => success
+reject => error
+then => handles success
+catch => handles error
+
+Json (javascript object notion)
+
+const json = {
+    "fullname" : "jhon doe",
+    "email":  "jhondoe@gmail.com"t,
+    "address": "new york"
+}
+
+! = NOT
